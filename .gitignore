@@ -1,0 +1,20 @@
+# Build output
+*.obj
+*.o
+*.res
+*.log
+base.exe
+ui_test_tmp.exe
+embedded-icon.ico
+
+# Local build tools and downloaded archives
+.build-tools/
+.resource-hacker/
+*.zip
+release/
+
+# Editor and OS files
+.vs/
+.vscode/
+Thumbs.db
+.DS_Store
